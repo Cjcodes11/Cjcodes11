@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there I'm Caleb👋
 
-<!--
-**Cjcodes11/Cjcodes11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer and designer passionate about building clean web experiences, exploring cybersecurity, and sharpening my technical skills.
 
-Here are some ideas to get you started:
+### 💻 Coding Languages & Tools
+* **Languages:** Python, HTML
+* **Design & Prototyping:** Figma, Adobe Illustrator, Adobe InDesign
+* **Systems & Security:** Linux (Ubuntu/Kali), Git, VirtualBox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Projects & Passions
+* **Cybersecurity Studies:** Exploring foundational hardening practices and networking concepts.
+* **Graphic & Web Development:** Designing responsive layouts and comprehensive brand identities.
+* **Music:** Playing acoustic arrangements and exploring alternative tunings.
