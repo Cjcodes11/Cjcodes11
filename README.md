@@ -1,4 +1,4 @@
-
+<img width="1501" height="501" alt="Screenshot 2026-11-12 at 7 50 09 PM" src="https://github.com/user-attachments/assets/be5bf54c-8ff2-4375-9e62-546ef8e8da6a" />
 
 
 ## About Me
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a developer and designer passionate about buil
 * **Music:** Playing acoustic arrangements and exploring alternative tunings.
 * **Outdoors** I enjoy hiking in the Colorado Rockies
 
-**Contact Me
+## Contact Me
 Phone: 719-678-1305
 Email: Cjoshuaabreu@gmail.com
 
