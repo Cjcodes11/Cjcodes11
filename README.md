@@ -10,6 +10,10 @@ Welcome to my GitHub profile! I'm a developer and designer passionate about buil
 * **Languages:** Python, HTML
 * **Design & Prototyping:** Figma, Adobe Illustrator, Adobe InDesign
 * **Systems & Security:** Linux (Ubuntu/Kali), Git, VirtualBox
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ## 🌱 Current Projects
 * **System Hardening AI Agent:** A tool that combines hardening practices and networking concepts.
@@ -23,8 +27,3 @@ Welcome to my GitHub profile! I'm a developer and designer passionate about buil
 ## Contact Me
 Phone: 719-678-1305
 Email: Cjoshuaabreu@gmail.com
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
