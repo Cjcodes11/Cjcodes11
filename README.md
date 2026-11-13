@@ -24,3 +24,7 @@ Welcome to my GitHub profile! I'm a developer and designer passionate about buil
 Phone: 719-678-1305
 Email: Cjoshuaabreu@gmail.com
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
