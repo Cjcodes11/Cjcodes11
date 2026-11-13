@@ -29,5 +29,5 @@ Welcome to my GitHub profile! I'm a developer and designer passionate about buil
 * **Outdoors** I enjoy hiking in the Colorado Rockies
 
 ## Contact Me
-Phone: 719-678-1305
-Email: Cjoshuaabreu@gmail.com
+* **Phone: 719-678-1305
+* **Email: Cjoshuaabreu@gmail.com
