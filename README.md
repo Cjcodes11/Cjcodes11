@@ -15,8 +15,14 @@ Welcome to my GitHub profile! I'm a developer and designer passionate about buil
 
 ## 🌱 Current Projects
 * **System Hardening AI Agent:** A tool that combines hardening practices and networking concepts.
-* **Networking Python packet Analyzer:** Combining Wireshark, a program that captures packet data.
+* **Networking Python packet Analyzer:** Combining Wireshark, a simple program that captures packet data.
 * **Linux Command Prompt Auditing:** Using the Command Prompt, I audit systems for vulnerabilities.
+
+## What I am Currently Learning
+
+* **Security+: Currently learning the CIA triad, AAA infrastructure, security controls, and threat actors.
+* **Rocky Linux: Learning how to operate a terminal and set permissions.
+* **Python Libraries: Learning Python Libraries for security and socket purposes. 
 
 ## Passions
 * **Music:** Playing acoustic arrangements and exploring alternative tunings.
