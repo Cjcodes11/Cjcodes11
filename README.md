@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a developer and designer passionate about buil
 
 ## 🌱 Current Projects
 * **[System Hardening AI Agent](https://cjcodes11.github.io/Project-3-Hardening-Lab/):** A tool that combines hardening practices and networking concepts.
-* **Networking Python packet Analyzer:** Combining Wireshark, a simple program that captures packet data.
+* **[Networking Python Analyzer](https://github.com/Cjcodes11/Project-2-Wireshark/tree/main):** Combining Wireshark, a simple program that captures IP and Port information.
 * **Linux Command Prompt Auditing:** Using the Command Prompt, I audit systems for vulnerabilities.
 
 ## What I am Currently Learning
