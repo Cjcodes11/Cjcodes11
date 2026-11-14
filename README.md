@@ -1,7 +1,7 @@
 <img width="1501" height="501" alt="Screenshot 2026-11-12 at 7 50 09 PM" src="https://github.com/user-attachments/assets/be5bf54c-8ff2-4375-9e62-546ef8e8da6a" />
 
 
-## About Me
+# About Me
 Hi there I'm Caleb👋
 
 Welcome to my GitHub profile! I'm a developer and designer passionate about building clean web experiences, exploring cybersecurity, and sharpening my technical skills.
@@ -18,10 +18,11 @@ Welcome to my GitHub profile! I'm a developer and designer passionate about buil
 * **[Networking Python Analyzer](https://github.com/Cjcodes11/Project-2-Wireshark/tree/main):** Combining Wireshark, a simple program that captures IP and Port information.
 * **[Linux Command Prompt Auditing](https://github.com/Cjcodes11/Networking-Analysis-Tool):** Using the Command Prompt, I audit systems for vulnerabilities.
 
-## What I am Currently Learning
+## What I am Currently Learning/Future Projects
 
 * Security+: Currently learning the CIA triad, AAA infrastructure, security controls, and threat actors.
 * Rocky Linux: Learning how to operate a terminal and set permissions.
+* Python Scripting: Learning scripts--line for line-- and how to automate them
 * Python Libraries: Learning Python Libraries for security and socket purposes. 
 
 ## Passions
@@ -29,5 +30,5 @@ Welcome to my GitHub profile! I'm a developer and designer passionate about buil
 * **Outdoors** I enjoy hiking in the Colorado Rockies
 
 ## Contact Me
-* **Phone: 719-678-1305
-* **Email: Cjoshuaabreu@gmail.com
+* Phone: 719-678-1305
+* Email: Cjoshuaabreu@gmail.com
